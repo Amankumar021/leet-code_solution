@@ -27,4 +27,12 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+## Array
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
