@@ -30,9 +30,14 @@ a repo based on solution on leetcode
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
