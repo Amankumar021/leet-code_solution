@@ -6,6 +6,7 @@ a repo based on solution on leetcode
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -14,6 +15,7 @@ a repo based on solution on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Math
 |  |
@@ -78,4 +80,16 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
