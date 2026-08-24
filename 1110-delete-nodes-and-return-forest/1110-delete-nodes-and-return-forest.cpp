@@ -24,7 +24,6 @@ public:
             }
             if(root->right!=NULL){
                 res.push_back(root->right);
-
             }
             return NULL;
         }else{
