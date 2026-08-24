@@ -46,6 +46,7 @@ a repo based on solution on leetcode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ a repo based on solution on leetcode
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amankumar021/leet-code_solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
