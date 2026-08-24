@@ -33,6 +33,7 @@ a repo based on solution on leetcode
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Amankumar021/leet-code_solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -52,4 +53,9 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Amankumar021/leet-code_solution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Amankumar021/leet-code_solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
