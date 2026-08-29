@@ -48,12 +48,14 @@ a repo based on solution on leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amankumar021/leet-code_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
 | ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -119,6 +121,7 @@ a repo based on solution on leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
 | ------- |
