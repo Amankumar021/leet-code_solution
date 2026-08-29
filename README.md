@@ -24,6 +24,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amankumar021/leet-code_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -41,6 +42,7 @@ a repo based on solution on leetcode
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amankumar021/leet-code_solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -110,5 +112,6 @@ a repo based on solution on leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
