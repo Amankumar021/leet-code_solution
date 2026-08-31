@@ -28,6 +28,7 @@ a repo based on solution on leetcode
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amankumar021/leet-code_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -57,6 +58,7 @@ a repo based on solution on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
@@ -78,6 +80,7 @@ a repo based on solution on leetcode
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amankumar021/leet-code_solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 ## Trie
@@ -134,4 +137,8 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
