@@ -35,6 +35,7 @@ a repo based on solution on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Greedy
@@ -48,6 +49,7 @@ a repo based on solution on leetcode
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
+| [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -67,6 +69,7 @@ a repo based on solution on leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
+| [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -131,6 +134,7 @@ a repo based on solution on leetcode
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 ## Polygons
@@ -141,4 +145,12 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
