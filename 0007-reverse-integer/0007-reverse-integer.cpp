@@ -5,7 +5,7 @@ public:
         long long x =(n);
         while(abs(x)>0){
             long long rem = x%10;
-            rev = rev*10 + x%10;
+            rev = rev*10 + rem;
             x/=10;
         }
 
