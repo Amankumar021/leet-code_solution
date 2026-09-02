@@ -25,6 +25,7 @@ a repo based on solution on leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
