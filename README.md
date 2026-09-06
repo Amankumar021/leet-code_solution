@@ -6,6 +6,7 @@ a repo based on solution on leetcode
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -18,6 +19,7 @@ a repo based on solution on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -118,6 +120,7 @@ a repo based on solution on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
@@ -163,4 +166,8 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
