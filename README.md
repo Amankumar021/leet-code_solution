@@ -8,6 +8,7 @@ a repo based on solution on leetcode
 | ------- |
 | [0112-path-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
@@ -25,6 +26,7 @@ a repo based on solution on leetcode
 | ------- |
 | [0112-path-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
@@ -50,6 +52,7 @@ a repo based on solution on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -170,6 +173,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amankumar021/leet-code_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
