@@ -12,6 +12,7 @@ a repo based on solution on leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -30,6 +31,7 @@ a repo based on solution on leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 ## Math
@@ -138,6 +140,7 @@ a repo based on solution on leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Lifting
