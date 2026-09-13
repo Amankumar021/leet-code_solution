@@ -22,11 +22,23 @@ public:
         int leftSum = totalSum(root->left);
         int rightSum = totalSum(root->right);
 
-        long subTreeSum =  root->val+leftSum +rightSum;
+        long sum =  root->val+leftSum +rightSum;
+
+        return sum;
+    }
+
+    int find(TreeNode* root){
+        if(!root)
+            return 0;
+
+        int leftsubTree = find(root->left);
+        int rightsubTree = find(root->right);
+
+        long subTreeSum = root->val + leftsubTree+rightsubTree;
 
         long remainingSubTreeSum = SUM - subTreeSum;
 
-        maxP = max(maxP,subTreeSum*remainingSubTreeSum);
+        maxP = max(maxP, subTreeSum*remainingSubTreeSum);
 
         return subTreeSum;
     }
@@ -37,7 +49,7 @@ public:
 
         SUM = totalSum(root);
 
-        totalSum(root);
+        find(root);
 
         return maxP%(1000000007);
     }
