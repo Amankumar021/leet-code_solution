@@ -46,6 +46,7 @@ a repo based on solution on leetcode
 | [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
+| [0836-rectangle-overlap](https://github.com/Amankumar021/leet-code_solution/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amankumar021/leet-code_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -201,4 +202,8 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Amankumar021/leet-code_solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
