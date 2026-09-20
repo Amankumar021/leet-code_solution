@@ -59,6 +59,7 @@ a repo based on solution on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -77,6 +78,7 @@ a repo based on solution on leetcode
 | [0054-spiral-matrix](https://github.com/Amankumar021/leet-code_solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
@@ -197,6 +199,7 @@ a repo based on solution on leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -214,4 +217,8 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Amankumar021/leet-code_solution/tree/master/0836-rectangle-overlap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
