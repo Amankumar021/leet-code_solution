@@ -112,6 +112,7 @@ a repo based on solution on leetcode
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Amankumar021/leet-code_solution/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
@@ -124,6 +125,7 @@ a repo based on solution on leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Amankumar021/leet-code_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
@@ -201,6 +203,7 @@ a repo based on solution on leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Amankumar021/leet-code_solution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
