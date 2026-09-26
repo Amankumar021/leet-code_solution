@@ -14,6 +14,7 @@ a repo based on solution on leetcode
 | [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -38,6 +39,7 @@ a repo based on solution on leetcode
 | [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -123,6 +125,7 @@ a repo based on solution on leetcode
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
+| [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 ## String
 |  |
@@ -166,6 +169,7 @@ a repo based on solution on leetcode
 | [0144-binary-tree-preorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
