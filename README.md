@@ -7,6 +7,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
@@ -24,6 +25,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0112-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -32,6 +34,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
@@ -164,6 +167,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0144-binary-tree-preorder-traversal) |
