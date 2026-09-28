@@ -100,6 +100,7 @@ a repo based on solution on leetcode
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Amankumar021/leet-code_solution/tree/master/2090-k-radius-subarray-averages) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amankumar021/leet-code_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -232,6 +233,7 @@ a repo based on solution on leetcode
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2090-k-radius-subarray-averages](https://github.com/Amankumar021/leet-code_solution/tree/master/2090-k-radius-subarray-averages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
