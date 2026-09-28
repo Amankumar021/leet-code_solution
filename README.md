@@ -149,6 +149,7 @@ a repo based on solution on leetcode
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Amankumar021/leet-code_solution/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -262,4 +263,9 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
