@@ -7,12 +7,14 @@ public:
         int i =0, j=0;
         int maxLength =0;
 
-        for(int j=0; j<n; j++){
+        while(j<n){
             if(nums[j]==0){
                 i = last_zero_idx+1;
                 last_zero_idx=j;
             }
             maxLength = max(maxLength, j-i);
+
+            j++;
         }
 
         return maxLength;
