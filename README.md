@@ -77,6 +77,7 @@ a repo based on solution on leetcode
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +156,7 @@ a repo based on solution on leetcode
 | [0520-detect-capital](https://github.com/Amankumar021/leet-code_solution/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Trie
 |  |
 | ------- |
@@ -241,6 +243,7 @@ a repo based on solution on leetcode
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Amankumar021/leet-code_solution/tree/master/2090-k-radius-subarray-averages) |
 ## Heap (Priority Queue)
 |  |
@@ -262,6 +265,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Ternary Search
 |  |
 | ------- |
