@@ -157,6 +157,7 @@ a repo based on solution on leetcode
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Amankumar021/leet-code_solution/tree/master/0520-detect-capital) |
+| [0856-score-of-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -280,12 +281,14 @@ a repo based on solution on leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
