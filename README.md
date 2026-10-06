@@ -22,6 +22,7 @@ a repo based on solution on leetcode
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ a repo based on solution on leetcode
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@ a repo based on solution on leetcode
 | [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Lifting
 |  |
@@ -284,5 +287,10 @@ a repo based on solution on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
