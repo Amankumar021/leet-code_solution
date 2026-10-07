@@ -17,6 +17,7 @@ a repo based on solution on leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -30,6 +31,7 @@ a repo based on solution on leetcode
 | [0101-symmetric-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0112-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
@@ -46,6 +48,7 @@ a repo based on solution on leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -194,6 +197,7 @@ a repo based on solution on leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Amankumar021/leet-code_solution/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Amankumar021/leet-code_solution/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
