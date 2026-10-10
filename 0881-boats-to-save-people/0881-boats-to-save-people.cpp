@@ -7,12 +7,13 @@ public:
 
         while(i<=j){
             if(people[i]+people[j] <=limit){
+                trip++;
                 i++;
                 j--;
             }else{
+                trip++;
                 j--;
             }
-            trip++;
         }
 
         return trip;
