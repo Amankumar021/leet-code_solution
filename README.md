@@ -86,6 +86,7 @@ a repo based on solution on leetcode
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -103,6 +104,7 @@ a repo based on solution on leetcode
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
@@ -130,6 +132,7 @@ a repo based on solution on leetcode
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -229,6 +232,7 @@ a repo based on solution on leetcode
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
@@ -304,4 +308,8 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
