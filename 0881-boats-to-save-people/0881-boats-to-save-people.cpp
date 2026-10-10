@@ -6,11 +6,11 @@ public:
         int i =0, j=people.size()-1;
 
         while(i<=j){
-            if(people[i]+people[j] <=limit){
+            if(people[i]+people[j] >limit){
                 trip++;
-                i++;
                 j--;
             }else{
+                i++;
                 trip++;
                 j--;
             }
