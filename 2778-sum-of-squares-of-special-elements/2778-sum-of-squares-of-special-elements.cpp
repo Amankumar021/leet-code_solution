@@ -8,7 +8,6 @@ public:
                 sqSum+=(pow(nums[i],2));
             }
         }
-
         return sqSum;
     }
 };
