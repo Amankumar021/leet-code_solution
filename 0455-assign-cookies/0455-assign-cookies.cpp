@@ -5,7 +5,6 @@ public:
         sort(begin(s), end(s));
         int n = g.size();
         int m = s.size();
-
         int content =0;
         int i =0, j=0;
         while(i<n && j<m){
