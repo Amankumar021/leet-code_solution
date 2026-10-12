@@ -8,10 +8,7 @@ public:
 
         int content =0;
         int i =0, j=0;
-        while(i<=j){
-            if(i>=n || j>=m){
-                return content;
-            }
+        while(i<n && j<m){
             if(s[j]>=g[i]){
                 content+=1;
                 i++;
@@ -20,7 +17,6 @@ public:
                 j++;
             }
         }
-
         return content;
     }
 };
