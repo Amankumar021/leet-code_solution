@@ -67,6 +67,7 @@ a repo based on solution on leetcode
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amankumar021/leet-code_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2485-find-the-pivot-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/2485-find-the-pivot-integer) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amankumar021/leet-code_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Amankumar021/leet-code_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -291,6 +292,7 @@ a repo based on solution on leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2485-find-the-pivot-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/2485-find-the-pivot-integer) |
 ## Ternary Search
 |  |
 | ------- |
