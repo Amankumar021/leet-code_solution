@@ -91,6 +91,7 @@ a repo based on solution on leetcode
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/1328-break-a-palindrome) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Amankumar021/leet-code_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
@@ -171,6 +172,7 @@ a repo based on solution on leetcode
 | [0520-detect-capital](https://github.com/Amankumar021/leet-code_solution/tree/master/0520-detect-capital) |
 | [0856-score-of-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1328-break-a-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
