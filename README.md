@@ -120,6 +120,7 @@ a repo based on solution on leetcode
 | [2090-k-radius-subarray-averages](https://github.com/Amankumar021/leet-code_solution/tree/master/2090-k-radius-subarray-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amankumar021/leet-code_solution/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -155,6 +156,7 @@ a repo based on solution on leetcode
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -329,4 +331,12 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
