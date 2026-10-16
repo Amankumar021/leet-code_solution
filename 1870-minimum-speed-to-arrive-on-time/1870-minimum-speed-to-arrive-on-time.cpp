@@ -4,7 +4,8 @@ public:
         double hrs = 0.0;
         int n = dist.size();
         for(int i =0; i<n-1; i++){
-            hrs+=(ceil((double)dist[i]/(double)min_speed));
+            double t = (ceil((double)dist[i]/(double)min_speed));
+            hrs+=t;
         }
         hrs+=(double(dist[n-1])/double(min_speed));
         return hrs;
