@@ -144,6 +144,7 @@ a repo based on solution on leetcode
 | [0392-is-subsequence](https://github.com/Amankumar021/leet-code_solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -351,5 +352,6 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
