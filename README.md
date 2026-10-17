@@ -343,4 +343,8 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
