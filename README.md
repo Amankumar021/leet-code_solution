@@ -141,6 +141,7 @@ a repo based on solution on leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Amankumar021/leet-code_solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
@@ -175,6 +176,7 @@ a repo based on solution on leetcode
 | [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Amankumar021/leet-code_solution/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Amankumar021/leet-code_solution/tree/master/0520-detect-capital) |
 | [0856-score-of-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -318,6 +320,7 @@ a repo based on solution on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Amankumar021/leet-code_solution/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## DP on Trees
