@@ -34,6 +34,7 @@ a repo based on solution on leetcode
 | [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@ a repo based on solution on leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
@@ -229,6 +231,7 @@ a repo based on solution on leetcode
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -241,6 +244,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -248,6 +252,7 @@ a repo based on solution on leetcode
 | [0054-spiral-matrix](https://github.com/Amankumar021/leet-code_solution/tree/master/0054-spiral-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
