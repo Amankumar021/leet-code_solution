@@ -91,6 +91,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Amankumar021/leet-code_solution/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
@@ -110,6 +111,7 @@ a repo based on solution on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Amankumar021/leet-code_solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
@@ -252,6 +254,7 @@ a repo based on solution on leetcode
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Amankumar021/leet-code_solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
@@ -358,4 +361,8 @@ a repo based on solution on leetcode
 | [0237-delete-node-in-a-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Amankumar021/leet-code_solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
