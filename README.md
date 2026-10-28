@@ -15,6 +15,7 @@ a repo based on solution on leetcode
 | [0144-binary-tree-preorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Amankumar021/leet-code_solution/tree/master/0257-binary-tree-paths) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -47,6 +48,7 @@ a repo based on solution on leetcode
 | [0144-binary-tree-preorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Amankumar021/leet-code_solution/tree/master/0257-binary-tree-paths) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -181,6 +183,7 @@ a repo based on solution on leetcode
 | [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Amankumar021/leet-code_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Amankumar021/leet-code_solution/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Amankumar021/leet-code_solution/tree/master/0392-is-subsequence) |
@@ -222,6 +225,7 @@ a repo based on solution on leetcode
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amankumar021/leet-code_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Amankumar021/leet-code_solution/tree/master/0257-binary-tree-paths) |
 | [0623-add-one-row-to-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -297,6 +301,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Amankumar021/leet-code_solution/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
