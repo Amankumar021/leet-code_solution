@@ -136,6 +136,7 @@ a repo based on solution on leetcode
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amankumar021/leet-code_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -257,6 +258,7 @@ a repo based on solution on leetcode
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amankumar021/leet-code_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +283,7 @@ a repo based on solution on leetcode
 | [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amankumar021/leet-code_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amankumar021/leet-code_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -341,6 +344,7 @@ a repo based on solution on leetcode
 | [0392-is-subsequence](https://github.com/Amankumar021/leet-code_solution/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amankumar021/leet-code_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## DP on Trees
 |  |
 | ------- |
