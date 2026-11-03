@@ -66,6 +66,7 @@ a repo based on solution on leetcode
 | [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Amankumar021/leet-code_solution/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amankumar021/leet-code_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -115,6 +116,7 @@ a repo based on solution on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Amankumar021/leet-code_solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -267,6 +269,7 @@ a repo based on solution on leetcode
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Amankumar021/leet-code_solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
