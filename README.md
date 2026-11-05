@@ -87,6 +87,7 @@ a repo based on solution on leetcode
 | [0222-count-complete-tree-nodes](https://github.com/Amankumar021/leet-code_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amankumar021/leet-code_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Amankumar021/leet-code_solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -125,6 +126,7 @@ a repo based on solution on leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amankumar021/leet-code_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Amankumar021/leet-code_solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1929-concatenation-of-array) |
@@ -163,6 +165,7 @@ a repo based on solution on leetcode
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amankumar021/leet-code_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amankumar021/leet-code_solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -277,6 +280,7 @@ a repo based on solution on leetcode
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amankumar021/leet-code_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 ## Polygons
