@@ -122,6 +122,7 @@ a repo based on solution on leetcode
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Amankumar021/leet-code_solution/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
@@ -179,6 +180,7 @@ a repo based on solution on leetcode
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0652-find-duplicate-subtrees](https://github.com/Amankumar021/leet-code_solution/tree/master/0652-find-duplicate-subtrees) |
+| [0904-fruit-into-baskets](https://github.com/Amankumar021/leet-code_solution/tree/master/0904-fruit-into-baskets) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -303,6 +305,7 @@ a repo based on solution on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Amankumar021/leet-code_solution/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Amankumar021/leet-code_solution/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
