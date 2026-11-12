@@ -114,6 +114,7 @@ a repo based on solution on leetcode
 | [0054-spiral-matrix](https://github.com/Amankumar021/leet-code_solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amankumar021/leet-code_solution/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Amankumar021/leet-code_solution/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
@@ -176,6 +177,7 @@ a repo based on solution on leetcode
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Amankumar021/leet-code_solution/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Amankumar021/leet-code_solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Amankumar021/leet-code_solution/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
@@ -274,6 +276,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Amankumar021/leet-code_solution/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Amankumar021/leet-code_solution/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Amankumar021/leet-code_solution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -323,6 +326,7 @@ a repo based on solution on leetcode
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amankumar021/leet-code_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Amankumar021/leet-code_solution/tree/master/0169-majority-element) |
 ## Geometry
 |  |
 | ------- |
@@ -393,5 +397,10 @@ a repo based on solution on leetcode
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Amankumar021/leet-code_solution/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Amankumar021/leet-code_solution/tree/master/0561-array-partition) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Amankumar021/leet-code_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
