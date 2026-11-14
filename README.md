@@ -141,6 +141,7 @@ a repo based on solution on leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Amankumar021/leet-code_solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Amankumar021/leet-code_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -313,6 +314,7 @@ a repo based on solution on leetcode
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Amankumar021/leet-code_solution/tree/master/2090-k-radius-subarray-averages) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Amankumar021/leet-code_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -337,6 +339,7 @@ a repo based on solution on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2485-find-the-pivot-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Amankumar021/leet-code_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Ternary Search
 |  |
 | ------- |
