@@ -69,6 +69,7 @@ a repo based on solution on leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amankumar021/leet-code_solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Amankumar021/leet-code_solution/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
+| [0991-broken-calculator](https://github.com/Amankumar021/leet-code_solution/tree/master/0991-broken-calculator) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amankumar021/leet-code_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2485-find-the-pivot-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/2485-find-the-pivot-integer) |
@@ -101,6 +102,7 @@ a repo based on solution on leetcode
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/Amankumar021/leet-code_solution/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/1328-break-a-palindrome) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Amankumar021/leet-code_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
