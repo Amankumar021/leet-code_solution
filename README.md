@@ -109,6 +109,7 @@ a repo based on solution on leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Amankumar021/leet-code_solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Amankumar021/leet-code_solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Amankumar021/leet-code_solution/tree/master/0048-rotate-image) |
@@ -175,6 +176,7 @@ a repo based on solution on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amankumar021/leet-code_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amankumar021/leet-code_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Amankumar021/leet-code_solution/tree/master/0049-group-anagrams) |
