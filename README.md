@@ -157,6 +157,7 @@ a repo based on solution on leetcode
 | [0067-add-binary](https://github.com/Amankumar021/leet-code_solution/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Amankumar021/leet-code_solution/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ a repo based on solution on leetcode
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
