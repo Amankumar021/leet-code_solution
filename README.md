@@ -127,6 +127,7 @@ a repo based on solution on leetcode
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Amankumar021/leet-code_solution/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Amankumar021/leet-code_solution/tree/master/0904-fruit-into-baskets) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Amankumar021/leet-code_solution/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar021/leet-code_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Amankumar021/leet-code_solution/tree/master/0989-add-to-array-form-of-integer) |
