@@ -25,6 +25,7 @@ a repo based on solution on leetcode
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Amankumar021/leet-code_solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ a repo based on solution on leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3024-type-of-triangle](https://github.com/Amankumar021/leet-code_solution/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amankumar021/leet-code_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Amankumar021/leet-code_solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Amankumar021/leet-code_solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Amankumar021/leet-code_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -192,6 +194,7 @@ a repo based on solution on leetcode
 | [0904-fruit-into-baskets](https://github.com/Amankumar021/leet-code_solution/tree/master/0904-fruit-into-baskets) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amankumar021/leet-code_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Amankumar021/leet-code_solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
@@ -217,6 +220,7 @@ a repo based on solution on leetcode
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Amankumar021/leet-code_solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Amankumar021/leet-code_solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Amankumar021/leet-code_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
@@ -258,6 +262,7 @@ a repo based on solution on leetcode
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Amankumar021/leet-code_solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amankumar021/leet-code_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
