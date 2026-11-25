@@ -105,6 +105,7 @@ a repo based on solution on leetcode
 | [0948-bag-of-tokens](https://github.com/Amankumar021/leet-code_solution/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Amankumar021/leet-code_solution/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Amankumar021/leet-code_solution/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Amankumar021/leet-code_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
@@ -135,6 +136,7 @@ a repo based on solution on leetcode
 | [1110-delete-nodes-and-return-forest](https://github.com/Amankumar021/leet-code_solution/tree/master/1110-delete-nodes-and-return-forest) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amankumar021/leet-code_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Amankumar021/leet-code_solution/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Amankumar021/leet-code_solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Amankumar021/leet-code_solution/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Amankumar021/leet-code_solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -216,6 +218,7 @@ a repo based on solution on leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amankumar021/leet-code_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1328-break-a-palindrome](https://github.com/Amankumar021/leet-code_solution/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amankumar021/leet-code_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Amankumar021/leet-code_solution/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amankumar021/leet-code_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Amankumar021/leet-code_solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Amankumar021/leet-code_solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -379,6 +382,7 @@ a repo based on solution on leetcode
 | [0392-is-subsequence](https://github.com/Amankumar021/leet-code_solution/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Amankumar021/leet-code_solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amankumar021/leet-code_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Amankumar021/leet-code_solution/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Amankumar021/leet-code_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## DP on Trees
 |  |
